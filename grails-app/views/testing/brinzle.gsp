@@ -1,0 +1,1 @@
+<g:link controller="testing" action='tomoto'>click me togo 2 tomoto</g:link>
